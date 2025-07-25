@@ -5,9 +5,9 @@
 
 - 🎓 Currently working on: smart sorting systems & sustainability tech
 - 🧪 ML Projects: `Tomato Sorting and Grading System, Potato disease detection, Housing price prediction`
-- 🔧 Tools I use: Python, Jupyter, FastAPI, Firebase, Docker, GitHub, React
-- 🌱 Learning: Cloud deployment, ML model optimization, embedded AI
-- 💬 Ask me about: AI in agriculture, edge robotics, and building MVPs
+- 🔧 Tools I use: `Python, Jupyter, FastAPI, Firebase, Docker, GitHub, React`
+- 🌱 Learning: `Cloud deployment, ML model optimization, embedded AI`
+- 💬 Ask me about: `AI in agriculture, edge robotics, and building MVPs`
 - 📫 Reach me at: [okeyiodhiambo@gmail.com](mailto:okeyiodhiambo@gmail.com)
 
 ---
