@@ -4,7 +4,7 @@
 ### 👨‍💻 I’m a creative problem solver using AI, robotics, and renewable energy to build impactful projects.
 
 - 🎓 Currently working on: smart sorting systems & sustainability tech
-- 🧪 ML Projects: `Tomato Sorting and Grading System, Potato disease detection, Tomato Grading and sorting system for export quality`
+- 🧪 ML Projects: `Tomato Sorting and Grading System, Potato disease detection, Housing price prediction`
 - 🔧 Tools I use: Python, Jupyter, FastAPI, Firebase, Docker, GitHub, React
 - 🌱 Learning: Cloud deployment, ML model optimization, embedded AI
 - 💬 Ask me about: AI in agriculture, edge robotics, and building MVPs
