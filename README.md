@@ -8,7 +8,7 @@
 - 🔧 Tools I use: Python, Jupyter, FastAPI, Firebase, Docker, GitHub, React
 - 🌱 Learning: Cloud deployment, ML model optimization, embedded AI
 - 💬 Ask me about: AI in agriculture, edge robotics, and building MVPs
-- 📫 Reach me at: [okeyirobbinson2000@gmail.com](mailto:okeyiodhiambo@gmail.com)
+- 📫 Reach me at: [okeyiodhiambo@gmail.com](mailto:okeyiodhiambo@gmail.com)
 
 ---
 
