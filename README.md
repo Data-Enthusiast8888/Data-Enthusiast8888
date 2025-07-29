@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### 👨‍💻 I’m a creative problem solver using AI, robotics, and renewable energy to problem define,build, optimize and test impactful real world projects in Agronomy(precision Agriculture), Economics(Finance) and Real Estate(Housing).
+### 👨‍💻 I build real-world tech that feels human — using AI, robotics, and renewable energy to solve challenges in agriculture, finance, and housing.
 
 - 🎓 Currently working on: `smart sorting systems & sustainability tech`
 - 🧪 ML Projects: `Tomato Sorting and Grading System, Potato disease detection, Housing price prediction`
