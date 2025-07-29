@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### 👨‍💻 I’m a creative problem solver using AI, robotics, and renewable energy to problem define,build, optimize and test impactful real world project.
+### 👨‍💻 I’m a creative problem solver using AI, robotics, and renewable energy to problem define,build, optimize and test impactful real world projects.
 
 - 🎓 Currently working on: `smart sorting systems & sustainability tech`
 - 🧪 ML Projects: `Tomato Sorting and Grading System, Potato disease detection, Housing price prediction`
