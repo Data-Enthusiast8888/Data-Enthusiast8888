@@ -14,7 +14,7 @@
 
 ### 📂 Featured Projects
 - 🧠 [Titanic Decision Tree Classifier](https://github.com/okeyirobbinson/Decision-tree-project)
-- 🥔 [Potato Blight Detector](#)
-- 🌿 [Microalgae Wastewater Treatment Model](#)
-
+- 🌿 PlantCare AI (live preview: local deployment) — Multilingual image-based disease detection system with culturally adapted treatment suggestions in Swahili, Luo, Kikuyu, and Kalenjin
+- 🌾 Yield Prediction System (repo link forthcoming) — Crop forecasting app with multiple classifiers, Dockerized FastAPI backend, and transparent model comparison dashboard
+- 🍅 Tomato Sorting & Grading System (repo in progress) — Computer vision       pipeline for post-harvest quality assurance, with modular design, external dataset hosting, and clear reproducibility setup
 > 💡 “I build with purpose. Code is just the tool.
